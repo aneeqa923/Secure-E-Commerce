@@ -34,17 +34,6 @@ A full-featured e-commerce web application built with PHP and MySQL, designed wi
   - User management
   - Sales reporting and analytics
 
-## 🔒 Security Features
-
-- Secure session management with HTTPOnly and Secure cookies
-- Password hashing using bcrypt
-- CSRF protection ready
-- XSS prevention with output sanitization
-- SQL injection prevention using prepared statements
-- Rate limiting for brute force protection
-- HTTP security headers (X-Frame-Options, X-Content-Type-Options)
-- Directory listing disabled
-
 ## 🚀 Getting Started
 
 ### Prerequisites
