@@ -112,9 +112,6 @@ private $username = "your_username";
 private $password = "your_password";
 ```
 
-### Email Configuration
-Update SMTP settings in `register.php` for email functionality.
-
 ### Payment Gateway
 Update PayFast credentials in `payfast.php` for payment processing.
 
