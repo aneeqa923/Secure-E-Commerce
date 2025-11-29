@@ -121,7 +121,7 @@ This project is available for educational and commercial use.
 
 ## 👤 Author
 
-**Aneeqa**
+**Aneeqa and group**
 - GitHub: [@aneeqa923](https://github.com/aneeqa923)
 
 ## 🤝 Contributing
